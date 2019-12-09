@@ -1,0 +1,8 @@
+{
+  "name": "react-github-user-card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kpoe03/React-Github-User-Card.git",
+  "author": "kpoe03 <52971991+kpoe03@users.noreply.github.com>",
+  "license": "MIT"
+}
